@@ -1,1 +1,2 @@
 Een test
+een tweede test in conflictfile.txt
