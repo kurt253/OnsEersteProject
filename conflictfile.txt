@@ -1,2 +1,3 @@
 Een test
 aanpassing door bruno-test
+een tweede test in conflictfile.txt
